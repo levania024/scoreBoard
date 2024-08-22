@@ -26,8 +26,6 @@ function homeBtn() {
     gameScore += 1
     console.log('score 0', gameScore);
     scoreHome()
-
-
 }
 
 // NOTE home plus three button
@@ -35,7 +33,6 @@ function homeThreeBtn() {
     gameScore += 3
     console.log('score 0', gameScore);
     scoreHome()
-
 }
 
 
